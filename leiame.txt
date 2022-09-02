@@ -1,0 +1,2 @@
+Para Rodar a aplicação colocar a página publicada(pasta publish) no IIS e coloca o nome de CaseItau
+
